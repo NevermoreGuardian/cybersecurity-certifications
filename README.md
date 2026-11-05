@@ -8,9 +8,7 @@ Status: In Progress
 Provider: Google
 Platform: Coursera
 Additional Certifications
-
 More certifications will be added as I continue developing my cybersecurity knowledge and technical skills.
-
 Purpose
 
 This repository serves as a record of my professional development, structured cybersecurity training, and completed certifications.
